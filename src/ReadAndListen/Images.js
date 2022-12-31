@@ -1,0 +1,26 @@
+const images = {
+    1: require("../../assets/image/ThoiKy/1.jpg"),
+    2: require("../../assets/image/ThoiKy/2.jpg"),
+    3: require("../../assets/image/ThoiKy/3.jpg"),
+    4: require("../../assets/image/ThoiKy/4.jpg"),
+    6: require("../../assets/image/ThoiKy/6.jpg"),
+    7: require("../../assets/image/ThoiKy/7.jpg"),
+    8: require("../../assets/image/ThoiKy/8.jpg"),
+    9: require("../../assets/image/ThoiKy/9.jpg"),
+    10: require("../../assets/image/ThoiKy/10.jpg"),
+    11: require("../../assets/image/ThoiKy/11.jpg"),
+    12: require("../../assets/image/ThoiKy/12.jpg"),
+    13: require("../../assets/image/ThoiKy/13.jpg"),
+    14: require("../../assets/image/ThoiKy/14.jpg"),
+    15: require("../../assets/image/ThoiKy/15.jpg"),
+    16: require("../../assets/image/ThoiKy/16.jpg"),
+    17: require("../../assets/image/ThoiKy/17.jpg"),
+    18: require("../../assets/image/ThoiKy/18.jpg"),
+    19: require("../../assets/image/ThoiKy/19.jpg"),
+    20: require("../../assets/image/ThoiKy/20.jpg"),
+    21: require("../../assets/image/ThoiKy/21.jpg"),
+    22: require("../../assets/image/ThoiKy/22.jpg"),
+    23: require("../../assets/image/ThoiKy/23.jpg"),
+};
+
+export default images;
